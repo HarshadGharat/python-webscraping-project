@@ -1,0 +1,213 @@
+,SR.NO.,FLIGHT,DESTINATIN,DATE,SCH,CALLING TIME,STATUS,TERMINAL
+0,1,6E 6673,Indore,13/04/2023,09:25    ,09:18   ,Baggage Hall,T2
+1,2,AI 628,Nagpur,13/04/2023,09:30    ,08:44   ,Baggage Hall,T2
+2,3,6E 5346,Udaipur,13/04/2023,09:35    ,09:22   ,Baggage Hall,T1
+3,4,AI 680,Mangalore,13/04/2023,09:35    ,08:55   ,Baggage Hall,T2
+4,5,UK 936,Ahmedabad,13/04/2023,09:35    ,09:30   ,Baggage Hall,T2
+5,6,G8 334,Delhi,13/04/2023,09:40    ,12:38   ,Baggage Hall,T1
+6,7,UK 943,Delhi,13/04/2023,09:45    ,09:23   ,Baggage Hall,T2
+7,8,6E 5232,Raipur,13/04/2023,09:50    ,09:44   ,Baggage Hall,T1
+8,9,S5 111,Belgaum,13/04/2023,09:55    ,10:01   ,Baggage Hall,T1
+9,10,AI 400,Aurangabad,13/04/2023,09:55    ,09:17   ,Baggage Hall,T2
+10,11,AI 616,Hyderabad,13/04/2023,09:55    ,09:50   ,Baggage Hall,T2
+11,12,SG 2697,Hyderabad,13/04/2023,09:55    ,09:33   ,Baggage Hall,T2
+12,13,AI 571,Chennai,13/04/2023,10:00    ,09:28   ,Baggage Hall,T2
+13,14,G8 395,Bengaluru,13/04/2023,10:00    ,-,Non Operational,T1
+14,15,UK 874,Hyderabad,13/04/2023,10:05    ,09:40   ,Baggage Hall,T2
+15,16,G8 459,Ahmedabad,13/04/2023,10:05    ,-,Non Operational,T1
+16,17,6E 5082,Chennai,13/04/2023,10:05    ,09:54   ,Baggage Hall,T1
+17,18,AI 682,Kochi,13/04/2023,10:05    ,09:42   ,Baggage Hall,T2
+18,19,UK 846,Bengaluru,13/04/2023,10:10    ,10:07   ,Baggage Hall,T2
+19,20,6E 5396,Calicut,13/04/2023,10:10    ,10:24   ,Baggage Hall,T1
+20,21,6E 416,Bengaluru,13/04/2023,10:10    ,09:58   ,Baggage Hall,T2
+21,22,6E 2075,Delhi,13/04/2023,10:15    ,09:51   ,Baggage Hall,T2
+22,23,6E 904,Bhubaneswar,13/04/2023,10:15    ,10:09   ,Baggage Hall,T2
+23,24,SG 1081,Bhavnagar,13/04/2023,10:20    ,09:57   ,Baggage Hall,T2
+24,25,AI 665,Delhi,13/04/2023,10:20    ,09:58   ,Baggage Hall,T2
+25,26,6E 5042,Lucknow,13/04/2023,10:30    ,10:16   ,Baggage Hall,T1
+26,27,6E 6425,Ahmedabad,13/04/2023,10:35    ,10:12   ,Baggage Hall,T2
+27,28,G8 141,Nagpur,13/04/2023,10:40    ,-,Non Operational,T1
+28,29,6E 329,Mangalore,13/04/2023,10:55    ,10:39   ,Baggage Hall,T2
+29,30,6E 5288,Kolkata,13/04/2023,10:55    ,10:32   ,Baggage Hall,T1
+30,31,AI 658,Thiruvananthapuram,13/04/2023,11:00    ,10:52   ,Baggage Hall,T2
+31,32,6E 5112,Delhi,13/04/2023,11:05    ,10:57   ,Baggage Hall,T1
+32,33,UK 544,Bhubaneswar,13/04/2023,11:05    ,10:37   ,Baggage Hall,T2
+33,34,9I 626,Bhuj,13/04/2023,11:05    ,10:41   ,Baggage Hall,T2
+34,35,6E 2012,Madurai,13/04/2023,11:10    ,10:47   ,Baggage Hall,T2
+35,36,UK 963,Delhi,13/04/2023,11:15    ,11:02   ,Baggage Hall,T2
+36,37,AI 678,Delhi,13/04/2023,11:20    ,11:10   ,Baggage Hall,T2
+37,38,UK 852,Bengaluru,13/04/2023,11:25    ,11:07   ,Baggage Hall,T2
+38,39,I5 762,Jaipur,13/04/2023,11:25    ,11:05   ,Baggage Hall,T2
+39,40,UK 654,Chandigarh,13/04/2023,11:30    ,11:14   ,Baggage Hall,T2
+40,41,G8 386,Srinagar,13/04/2023,11:30    ,12:35   ,Baggage Hall,T1
+41,42,UK 927,Delhi,13/04/2023,11:35    ,11:42   ,Baggage Hall,T2
+42,43,AI 604,Bengaluru,13/04/2023,11:35    ,11:16   ,Baggage Hall,T2
+43,44,6E 6276,Chennai,13/04/2023,11:40    ,11:19   ,Baggage Hall,T2
+44,45,UK 822,Chennai,13/04/2023,11:45    ,11:25   ,Baggage Hall,T2
+45,46,SG 368,Goa Mopa,13/04/2023,11:50    ,11:12   ,Baggage Hall,T2
+46,47,6E 488,Bengaluru,13/04/2023,11:55    ,11:50   ,Baggage Hall,T2
+47,48,QP 1122,Lucknow,13/04/2023,12:05    ,12:12   ,Baggage Hall,T1
+48,49,6E 5046,Bhopal,13/04/2023,12:05    ,11:54   ,Baggage Hall,T1
+49,50,G8 348,Kochi,13/04/2023,12:05    ,11:52   ,Baggage Hall,T1
+50,51,QP 1362,Bengaluru,13/04/2023,12:10    ,11:56   ,Baggage Hall,T1
+51,52,SG 945,Srinagar,13/04/2023,12:10    ,11:28   ,Baggage Hall,T2
+52,53,6E 2328,Delhi,13/04/2023,12:15    ,12:10   ,Baggage Hall,T2
+53,54,SG 430,Kanpur,13/04/2023,12:20    ,-,Non Operational,T2
+54,55,SG 242,Kolkata,13/04/2023,12:20    ,12:05   ,Baggage Hall,T2
+55,56,QP 1116,Chennai,13/04/2023,12:25    ,12:31   ,Baggage Hall,T1
+56,57,6E 5227,Kolkata,13/04/2023,12:25    ,12:13   ,Baggage Hall,T1
+57,58,UK 514,Goa Mopa,13/04/2023,12:30    ,12:24   ,Baggage Hall,T2
+58,59,AI 865,Delhi,13/04/2023,12:30    ,12:03   ,Baggage Hall,T2
+59,60,UK 995,Delhi,13/04/2023,12:35    ,12:19   ,Baggage Hall,T2
+60,61,6E 6523,Nagpur,13/04/2023,12:35    ,12:26   ,Baggage Hall,T2
+61,62,6E 5384,Hyderabad,13/04/2023,12:40    ,12:21   ,Baggage Hall,T1
+62,63,SG 116,"Darbhanga, Bihar",13/04/2023,12:40    ,12:16   ,Baggage Hall,T2
+63,64,AI 676,Kolkata,13/04/2023,12:45    ,11:44   ,Baggage Hall,T2
+64,65,I5 632,Ranchi,13/04/2023,12:45    ,12:40   ,Baggage Hall,T2
+65,66,AI 614,Pune,13/04/2023,12:50    ,12:07   ,Baggage Hall,T2
+66,67,S5 162,Belgaum,13/04/2023,13:00    ,13:07   ,Arrived ,T1
+67,68,UK 772,Kolkata,13/04/2023,13:00    ,12:54   ,Baggage Hall,T2
+68,69,6E 824,Delhi,13/04/2023,13:00    ,12:49   ,Baggage Hall,T2
+69,70,QP 1102,Ahmedabad,13/04/2023,13:10    ,12:57   ,Baggage Hall,T1
+70,71,6E 2441,Lucknow,13/04/2023,13:15    ,12:51   ,Baggage Hall,T2
+71,72,6E 5052,Chennai,13/04/2023,13:20    ,13:10   ,Arrived ,T1
+72,73,QP 1393,Goa Mopa,13/04/2023,13:20    ,13:02   ,Arrived ,T1
+73,74,AI 646,Jodhpur,13/04/2023,13:25    ,12:46   ,Baggage Hall,T2
+74,75,6E 628,Goa Mopa,13/04/2023,13:30    ,13:31   ,Estimated,T2
+75,76,QP 1104,Bengaluru,13/04/2023,13:30    ,13:20   ,Early Arrival,T1
+76,77,6E 6544,Varanasi,13/04/2023,13:45    ,13:31   ,Estimated,T2
+77,78,6E 6259,Rajkot,13/04/2023,13:50    ,13:41   ,Estimated,T2
+78,79,UK 945,Delhi,13/04/2023,13:50    ,13:39   ,Estimated,T2
+79,80,SG 2906,Kandla,13/04/2023,13:55    ,13:36   ,Estimated,T2
+80,81,AI 622,Bengaluru,13/04/2023,14:00    ,13:33   ,Estimated,T2
+81,82,6E 5293,Bengaluru,13/04/2023,14:05    ,13:31   ,Estimated,T1
+82,83,6E 5235,Jaipur,13/04/2023,14:15    ,-,Scheduled,T1
+83,84,6E 7291,Hubli,13/04/2023,14:15    ,13:43   ,Estimated,T1
+84,85,G8 382,Chandigarh,13/04/2023,14:20    ,15:45   ,Delayed,T1
+85,86,G8 2412,Amritsar,13/04/2023,14:20    ,-,Non Operational,T1
+86,87,6E 5119,Bagdogra,13/04/2023,14:25    ,14:38   ,Estimated,T1
+87,88,AI 648,Jamnagar,13/04/2023,14:25    ,13:51   ,Estimated,T2
+88,89,AI 634,Bhopal,13/04/2023,14:25    ,13:30   ,Estimated,T2
+89,90,SG 166,Madurai,13/04/2023,14:25    ,13:56   ,Estimated,T2
+90,91,UK 878,Hyderabad,13/04/2023,14:35    ,-,Scheduled,T2
+91,92,6E 6097,Goa Dabolim,13/04/2023,14:40    ,-,Scheduled,T2
+92,93,G8 332,Goa Dabolim,13/04/2023,14:40    ,15:10   ,Delayed,T1
+93,94,UK 516,Kochi,13/04/2023,14:40    ,13:56   ,Estimated,T2
+94,95,UK 842,Goa Dabolim,13/04/2023,14:45    ,-,Scheduled,T2
+95,96,6E 5054,Thiruvananthapuram,13/04/2023,14:50    ,-,Scheduled,T1
+96,97,6E 6092,Delhi,13/04/2023,14:55    ,-,Scheduled,T2
+97,98,6E 6704,Kochi,13/04/2023,15:00    ,-,Scheduled,T2
+98,99,UK 993,Delhi,13/04/2023,15:00    ,-,Scheduled,T2
+99,100,AI 618,Hyderabad,13/04/2023,15:00    ,-,Scheduled,T2
+100,101,AI 632,Ahmedabad,13/04/2023,15:00    ,-,Non Operational,T2
+101,102,6E 5263,Chandigarh,13/04/2023,15:05    ,-,Scheduled,T1
+102,103,9I 662,Sindhudurg,13/04/2023,15:05    ,-,Scheduled,T2
+103,104,6E 6699,Hyderabad,13/04/2023,15:05    ,-,Scheduled,T2
+104,105,6E 5371,Chennai,13/04/2023,15:10    ,-,Scheduled,T1
+105,106,G8 2505,Ahmedabad,13/04/2023,15:10    ,18:25   ,Delayed,T1
+106,107,6E 318,Jammu,13/04/2023,15:20    ,-,Scheduled,T2
+107,108,G8 307,Lucknow,13/04/2023,15:25    ,-,Non Operational,T1
+108,109,6E 919,Agra,13/04/2023,15:35    ,-,Scheduled,T2
+109,110,G8 304,Port Blair,13/04/2023,15:40    ,18:10   ,Delayed,T1
+110,111,AI 696,Varanasi,13/04/2023,15:50    ,-,Scheduled,T2
+111,112,AI 612,Jaipur,13/04/2023,15:50    ,-,Scheduled,T2
+112,113,UK 614,Udaipur,13/04/2023,15:55    ,-,Scheduled,T2
+113,114,6E 5304,Bhubaneswar,13/04/2023,16:00    ,-,Scheduled,T1
+114,115,6E 773,Jodhpur,13/04/2023,16:05    ,-,Scheduled,T2
+115,116,G8 352,Patna,13/04/2023,16:05    ,18:20   ,Delayed,T1
+116,117,6E 5056,Ahmedabad,13/04/2023,16:10    ,-,Scheduled,T1
+117,118,UK 522,Coimbatore,13/04/2023,16:15    ,-,Scheduled,T2
+118,119,G8 336,Delhi,13/04/2023,16:15    ,16:30   ,Estimated,T1
+119,120,AI 863,Delhi,13/04/2023,16:20    ,-,Scheduled,T2
+120,121,AI 602,Bengaluru,13/04/2023,16:25    ,-,Scheduled,T2
+121,122,AI 626,Lucknow,13/04/2023,16:25    ,-,Scheduled,T2
+122,123,UK 951,Delhi,13/04/2023,16:25    ,-,Scheduled,T2
+123,124,6E 2176,Delhi,13/04/2023,16:30    ,-,Scheduled,T2
+124,125,UK 562,Jaipur,13/04/2023,16:30    ,-,Scheduled,T2
+125,126,6E 6938,Prayagraj,13/04/2023,16:35    ,-,Scheduled,T2
+126,127,6E 5351,Bengaluru,13/04/2023,16:40    ,-,Scheduled,T1
+127,128,6E 6548,Lucknow,13/04/2023,16:40    ,-,Scheduled,T2
+128,129,6E 5059,Jabalpur,13/04/2023,16:50    ,-,Scheduled,T1
+129,130,AI 664,Goa Dabolim,13/04/2023,16:50    ,-,Scheduled,T2
+130,131,6E 5272,Visakhapatnam,13/04/2023,16:55    ,-,Scheduled,T1
+131,132,UK 572,Goa Mopa,13/04/2023,17:05    ,-,Scheduled,T2
+132,133,QP 1395,Goa Mopa,13/04/2023,17:05    ,-,Scheduled,T1
+133,134,I5 338,Bhubaneswar,13/04/2023,17:10    ,-,Scheduled,T2
+134,135,6E 5066,Nagpur,13/04/2023,17:10    ,-,Scheduled,T1
+135,136,AI 692,Kochi,13/04/2023,17:10    ,-,Scheduled,T2
+136,137,AI 732,Patna,13/04/2023,17:20    ,-,Scheduled,T2
+137,138,QP 1108,Ahmedabad,13/04/2023,17:20    ,-,Scheduled,T1
+138,139,UK 865,Dehradun,13/04/2023,17:25    ,-,Scheduled,T2
+139,140,6E 6207,Raipur,13/04/2023,17:25    ,-,Scheduled,T2
+140,141,AI 672,Madurai,13/04/2023,17:30    ,-,Scheduled,T2
+141,142,6E 5257,Indore,13/04/2023,17:35    ,-,Scheduled,T1
+142,143,UK 933,Delhi,13/04/2023,17:35    ,-,Scheduled,T2
+143,144,6E 5074,Goa Dabolim,13/04/2023,17:40    ,-,Scheduled,T1
+144,145,G8 350,Varanasi,13/04/2023,17:55    ,-,Non Operational,T1
+145,146,AI 636,Delhi,13/04/2023,18:00    ,-,Scheduled,T2
+146,147,6E 2167,Patna,13/04/2023,18:00    ,-,Scheduled,T2
+147,148,6E 2016,Delhi,13/04/2023,18:00    ,-,Scheduled,T2
+148,149,6E 5317,Kanpur,13/04/2023,18:05    ,-,Scheduled,T1
+149,150,AI 644,Udaipur,13/04/2023,18:05    ,-,Scheduled,T2
+150,151,G8 287,Srinagar,13/04/2023,18:10    ,20:00   ,Delayed,T1
+151,152,QP 1128,Delhi,13/04/2023,18:10    ,-,Scheduled,T1
+152,153,6E 5251,Bengaluru,13/04/2023,18:15    ,-,Scheduled,T1
+153,154,6E 5064,Silchar Assam,13/04/2023,18:20    ,-,Scheduled,T1
+154,155,SG 487,Goa Dabolim,13/04/2023,18:20    ,-,Scheduled,T2
+155,156,QP 1106,Bengaluru,13/04/2023,18:20    ,-,Scheduled,T1
+156,157,6E 5061,Vadodara,13/04/2023,18:25    ,-,Scheduled,T1
+157,158,9I 624,Diu,13/04/2023,18:25    ,-,Scheduled,T2
+158,159,UK 622,Varanasi,13/04/2023,18:30    ,-,Scheduled,T2
+159,160,6E 5318,Delhi,13/04/2023,18:40    ,-,Scheduled,T1
+160,161,SG 202,Varanasi,13/04/2023,18:40    ,-,Scheduled,T2
+161,162,G8 315,Goa Dabolim,13/04/2023,18:40    ,-,Non Operational,T1
+162,163,6E 341,Ranchi,13/04/2023,18:45    ,-,Scheduled,T2
+163,164,AI 654,Visakhapatnam,13/04/2023,18:45    ,-,Scheduled,T2
+164,165,I5 679,Jaipur,13/04/2023,18:50    ,-,Scheduled,T2
+165,166,9I 879,Goa Dabolim,13/04/2023,18:55    ,-,Scheduled,T2
+166,167,SG 370,Srinagar,13/04/2023,19:00    ,-,Scheduled,T2
+167,168,AI 775,Kolkata,13/04/2023,19:05    ,-,Scheduled,T2
+168,169,UK 941,Delhi,13/04/2023,19:05    ,-,Scheduled,T2
+169,170,SG 386,Gorakhpur,13/04/2023,19:10    ,-,Scheduled,T2
+170,171,6E 5237,Jaipur,13/04/2023,19:15    ,-,Scheduled,T1
+171,172,AI 656,Rajkot,13/04/2023,19:20    ,-,Scheduled,T2
+172,173,6E 933,Dehradun,13/04/2023,19:20    ,-,Scheduled,T2
+173,174,6E 5234,Chandigarh,13/04/2023,19:25    ,-,Scheduled,T1
+174,175,G8 2316,Dehradun,13/04/2023,19:25    ,21:20   ,Delayed,T1
+175,176,SG 168,Bagdogra,13/04/2023,19:30    ,-,Scheduled,T2
+176,177,6E 274,Udaipur,13/04/2023,19:35    ,-,Scheduled,T2
+177,178,6E 5077,Hyderabad,13/04/2023,19:40    ,-,Scheduled,T1
+178,179,6E 864,Delhi,13/04/2023,19:40    ,-,Scheduled,T2
+179,180,6E 6526,Aizawl,13/04/2023,19:40    ,-,Scheduled,T2
+180,181,G8 684,Ahmedabad,13/04/2023,19:45    ,-,Scheduled,T1
+181,182,SG 8709,Delhi,13/04/2023,19:45    ,-,Scheduled,T2
+182,183,6E 5255,Bengaluru,13/04/2023,19:50    ,-,Scheduled,T1
+183,184,G8 372,Goa Dabolim,13/04/2023,19:55    ,21:50   ,Delayed,T1
+184,185,6E 6386,Goa Dabolim,13/04/2023,19:55    ,-,Scheduled,T2
+185,186,UK 955,Delhi,13/04/2023,19:55    ,-,Scheduled,T2
+186,187,6E 5079,Ahmedabad,13/04/2023,20:05    ,-,Scheduled,T1
+187,188,AI 441,Delhi,13/04/2023,20:10    ,-,Scheduled,T2
+188,189,UK 956,Ahmedabad,13/04/2023,20:10    ,-,Scheduled,T2
+189,190,UK 854,Bengaluru,13/04/2023,20:15    ,-,Scheduled,T2
+190,191,6E 6678,Mangalore,13/04/2023,20:15    ,-,Scheduled,T2
+191,192,UK 774,Kolkata,13/04/2023,20:15    ,-,Scheduled,T2
+192,193,6E 5222,Rajkot,13/04/2023,20:20    ,-,Scheduled,T1
+193,194,6E 5381,Chennai,13/04/2023,20:20    ,-,Scheduled,T1
+194,195,6E 6206,Imphal,13/04/2023,20:25    ,-,Scheduled,T2
+195,196,SG 696,Jaipur,13/04/2023,20:30    ,-,Scheduled,T2
+196,197,UK 864,Bengaluru,13/04/2023,20:35    ,-,Scheduled,T2
+197,198,6E 2017,Delhi,13/04/2023,20:35    ,-,Scheduled,T2
+198,199,6E 545,Gorakhpur,13/04/2023,20:40    ,-,Scheduled,T2
+199,200,AI 773,Kolkata,13/04/2023,20:45    ,-,Scheduled,T2
+200,201,I5 334,Goa Dabolim,13/04/2023,20:50    ,-,Scheduled,T2
+201,202,G8 323,Delhi,13/04/2023,20:55    ,21:35   ,Delayed,T1
+202,203,AI 582,Calicut,13/04/2023,21:00    ,-,Scheduled,T2
+203,204,6E 5278,Chennai,13/04/2023,21:05    ,-,Scheduled,T1
+204,205,6E 5376,Bengaluru,13/04/2023,21:10    ,-,Scheduled,T1
+205,206,6E 5242,Bhubaneswar,13/04/2023,21:10    ,-,Scheduled,T1
+206,207,UK 977,Delhi,13/04/2023,21:15    ,-,Scheduled,T2
+207,208,SG 678,Chennai,13/04/2023,21:15    ,-,Scheduled,T2
+208,209,G8 388,Ranchi,13/04/2023,21:15    ,-,Non Operational,T1
+209,210,AI 610,Bengaluru,13/04/2023,21:20    ,-,Scheduled,T2
+210,211,G8 396,Lucknow,13/04/2023,21:20    ,21:10   ,Estimated,T1
+211,212,G8 2612,Nagpur,13/04/2023,21:20    ,00:25   ,Delayed,T1
